@@ -101,8 +101,8 @@ The project includes an admin table and an admin login page. After importing the
 
 ## License
 
-This project does not currently include a formal license file. If you plan to reuse it publicly, you should add an appropriate open-source license before distribution.
+This project does not currently include a formal license file. 
 
 ## Author
 
-Built for a student marketplace / campus trading use case.
+Built for a student marketplace / campus trading use case by Lusa Matshakatini (2025)
